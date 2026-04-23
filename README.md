@@ -1,38 +1,39 @@
-💼 **Mohammed Hafeeza Khan — Portfolio Website**
+💻 Mohammed Hafeeza Khan — Portfolio Website
 
-This is my personal portfolio website built using HTML, CSS, JavaScript, and a Node.js backend. It showcases my projects, technical skills, and contact information with a clean design and functional contact form that sends messages directly to my email.
+This is my personal portfolio website built using modern web technologies. It showcases my projects, technical skills, experience, and contact information with a clean and responsive design.
 
----
+🔗 Live Site
 
-🔗 **Live Site:** Your Portfolio Link Here
+👉 Add your deployed link here
 
----
+✨ Features
 
-✨ **Features**
-⚡ Clean and modern UI design
-📱 Fully responsive (mobile + desktop)
-🧠 Projects section with GitHub links
+⚡ Fully responsive portfolio design
+🎨 Clean and modern UI
+💡 Projects section with GitHub integration
+🧠 Skills, Experience, and Education sections
+📱 Mobile-friendly layout
 📄 Resume download option
-📩 Working contact form (frontend + backend integration)
-📨 Real-time email sending using backend (Node.js + Nodemailer)
+📬 Contact form for direct communication
 
----
+🛠️ Tech Stack
 
-🛠️ **Tech Stack**
 HTML
 CSS
 JavaScript
-Node.js
-Express.js
-Nodemailer
-Vercel (Frontend Deployment)
-Render (Backend Deployment)
+GitHub Pages / Netlify (Deployment)
 
----
+📌 Projects Included
 
-📬 **Contact**
+✔ Resolve Radar (Grievance Management System)
+✔ Personalized Trip Planner using GenAI
+✔ Freelancer Finder
+✔ Portfolio Website
+
+📬 Contact
+
 📧 hafeezakhanmohammad@gmail.com
 
-🌐 **Portfolio:** Your Portfolio Link
-💼 **LinkedIn:** www.linkedin.com/in/hafeezakhan-mohammad-5924722b8
-💻 **GitHub:** (https://github.com/mohammadhafeezakhan)
+🌐 Portfolio: Add your live link
+
+💼 LinkedIn: www.linkedin.com/in/hafeezakhan-mohammad-5924722b8
