@@ -374,8 +374,7 @@
 
 </section>
 
-
- <script>
+<script>
 document.getElementById("contactForm").addEventListener("submit", async function(e) {
   e.preventDefault();
 
@@ -386,13 +385,15 @@ document.getElementById("contactForm").addEventListener("submit", async function
   };
 
   try {
-   const res = await fetch("https://myportfolio-o3ag.onrender.com/contact", {
+    fetch("https://myportfolio-production-f78b.up.railway.app/contact", {
   method: "POST",
   headers: {
     "Content-Type": "application/json"
   },
+  
   body: JSON.stringify(data)
-});
+})
+
     const result = await res.json();
 
     document.getElementById("successMsg").innerText = result.message;
@@ -406,7 +407,6 @@ document.getElementById("contactForm").addEventListener("submit", async function
   }
 });
 </script>
-
 </body>
 
 </html>
