@@ -385,8 +385,7 @@ document.getElementById("contactForm").addEventListener("submit", async function
   };
 
   try {
-    fetch("https://myportfolio-production-f78b.up.railway.app/contact", {
-  method: "POST",
+ const res = await fetch("https://myportfolio-production-f78b.up.railway.app/contact", {  method: "POST",
   headers: {
     "Content-Type": "application/json"
   },
